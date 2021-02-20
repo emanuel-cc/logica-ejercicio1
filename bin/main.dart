@@ -3,8 +3,8 @@ import 'dart:io';
 main(List<String> arguments) {
   // print('Hello world: ${ejercicio_1.calculate()}!');
   // print("Hola mundo");
-  List<int> fila = [0,1,2];
-  List<int> columna = [0,1,2];
+  List<int> fila = [0,1,2,3];
+  List<int> columna = [0,1,2,3];
 
   // stdout.writeln('Ingresa el tamaño de la cuadrícula: ');
   // int n = int.parse(stdin.readLineSync());
